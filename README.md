@@ -13,5 +13,6 @@
 
 ## 📱📞 - Contatos
 
-- https://www.instagram.com/jj_vitorrr/
+- Instagram: https://www.instagram.com/jj_vitorrr/
 - Discord: < JoaoVictor/>#1396 (remover o espaço entre "<" e o "J")
+- Linkedln: https://www.linkedin.com/in/jo%C3%A3o-victor-a605801a0/ 
